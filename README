@@ -1,0 +1,12 @@
+Objective:
+
+  To plot real time audio collected from a microphone on the computer, then plot the spectrum analysis of the data gathered.
+
+Back-end Code:
+  audioSpec.py
+Front-end Code:
+  plotMic.py
+
+If running on Python 3.0+, change "import Tkinter as Tk" to "import tkinter as Tk"
+
+To run (on Linux), python plotMic.py
